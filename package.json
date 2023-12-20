@@ -1,0 +1,9 @@
+{
+  "name": "@attomtech/ts-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "version": "npm version --no-git-tag-version",
+    "publish": "npm publish --access=public"
+  }
+}
